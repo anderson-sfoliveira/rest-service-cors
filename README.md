@@ -10,7 +10,7 @@
 
 <!--ts-->
 
-- [Sobre o projeto](#sobre-o-projeto)
+- [Sobre o projeto](#-sobre-o-projeto)
 - [Como executar o projeto](#-como-executar-o-projeto)
   - [Pré-requisitos](#pré-requisitos)
   - [Rodando o projeto](#user-content--rodando-o-projeto)
